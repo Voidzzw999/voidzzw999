@@ -1,7 +1,7 @@
 ## Oiii meu nome é Iarley Oliveira de Jesus, criador de conteúdo de programação e desenvolvimento Minecraft!
 <div align="center">
 
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img align="center" width="200" height="200" src="https://media.discordapp.net/attachments/916838108971028520/939595271107645521/giphy.gif">
 
   <a href="https://github.com/Voidzzw999">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Voidzzw999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
