@@ -24,5 +24,6 @@
   <a href="https://www.youtube.com/channel/Voidrun" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/tBjZfSBQXy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
+  ![Snake animation](https://github.com/Voidzzw999/Voidzzw999/blob/output/github-contribution-grid-snake.svg)
  
 </div>
